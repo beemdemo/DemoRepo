@@ -1,0 +1,34 @@
+Users: (Passkeys installed)
+
+Admin User Account Beem Demo Tenant mit Concerto Access:
+beem.demo@swisscomtestbeemproddemo.beem.swiss
+
+Normal User:
+demo.beemey8@swisscomtestbeemproddemo.beem.swiss 
+
+SecOfr Account für Concerto Access Admin:
+stefan.schobert@secofr.beem.swiss
+
+Admin User Account Erde Tenant:
+stefan.schobertec@swisscomschweizag-5.beem.swiss
+
+Latest Recovery 4.8.26 17:22
+W83zZ5GHAk
+SFz9eoB3O8
+YvWHVzlRez
+BX9WloFM2Q
+0MFuG9CvYq
+HOYiGjaWs6
+zKTAWd5Yy4
+ymlmqcXhag
+YTwTUacD34
+y1ubMadF7P
+
+
+Filter:
+(srcAddress:"81.63.182.223"),(appId:"nytimes")
+
+
+9DqIQtR3pr
+
+9DqlQtR3pr
